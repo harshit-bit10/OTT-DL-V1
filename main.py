@@ -41,8 +41,8 @@ if not utils.isExist(configPath):
 default_res = ""
 default_strm = ''
 config = utils.JSO(configPath, 4)
-##sudo_users = [7126874550, -1002273935741, 6209057258, 1596559467]
-sudo_users = [7126874550, -1002273935741, 6209057258, 1596559467, 7361945688, 1195351595]
+##sudo_users = [6066102279, -1002273763090, 5574593875, 6179653550]
+sudo_users = [6066102279, -1002273763090, 5574593875, 6179653550]
 
 class ButtonMaker:
     def __init__(self):
@@ -137,7 +137,7 @@ def extractyt(url=None,ci=None,is_dngplay=False,is_sliv=False,is_hs=False,is_zee
 
 app = Client(
     "Hinata_ott_downloader_bot",
-    bot_token="8198617358:AAEEezx06YR3VOk1Q15FElzzMZLKHLb8hoU",
+    bot_token="7886315471:AAE6VjX6nGQjfjoU4cfdHTopfRJVnhRACIk",
     api_id="5360874",
     api_hash="4631f40a1b26c2759bf1be4aff1df710",
     sleep_threshold=30
