@@ -13,7 +13,7 @@ class tgUploader:
         self.msg = msg
         self.messageid = messageid
         self.__sent_msg = ''
-        self.__ldump = "-1001963446260"
+        self.__ldump = "-1002368843413"
 
     def upload_file(self, file_path):
         try:
