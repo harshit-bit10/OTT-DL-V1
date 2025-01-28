@@ -14,3 +14,4 @@ hachoir
 pydrive
 pydrive2
 cryptography
+pywidevine
